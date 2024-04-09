@@ -2,6 +2,7 @@
 In this dahboards i've used the Stack Overflow Developer Survey 2019 data to create a dashboard. In this dashboard you will find the following:
 
 A Current Technology Usage tab containing:
+
   Top 10 Languages
   Top 10 Databases
   Platforms
